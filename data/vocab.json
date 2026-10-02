@@ -1,0 +1,1070 @@
+{
+  "topics": [
+    {
+      "id": "basico",
+      "name": "Основы и вежливость",
+      "note": "Бразильцы очень тепло реагируют на любые попытки говорить по-португальски. «Obrigado» говорит мужчина, «obrigada» — женщина, независимо от того, кого благодарят.",
+      "items": [
+        {
+          "pt": "Oi! / Olá!",
+          "ru": "Привет! / Здравствуйте!"
+        },
+        {
+          "pt": "Bom dia / Boa tarde / Boa noite",
+          "ru": "Доброе утро / Добрый день / Добрый вечер",
+          "note": "boa noite — и «добрый вечер», и «спокойной ночи»"
+        },
+        {
+          "pt": "Tudo bem?",
+          "ru": "Как дела? (всё хорошо?)"
+        },
+        {
+          "pt": "Tudo bem, e você?",
+          "ru": "Всё хорошо, а у тебя/у вас?"
+        },
+        {
+          "pt": "Por favor",
+          "ru": "Пожалуйста (просьба)"
+        },
+        {
+          "pt": "Obrigado / Obrigada",
+          "ru": "Спасибо (говорит мужчина / женщина)"
+        },
+        {
+          "pt": "De nada / Imagina!",
+          "ru": "Не за что / Да что вы!"
+        },
+        {
+          "pt": "Com licença",
+          "ru": "Разрешите / Извините (пройти, обратиться)"
+        },
+        {
+          "pt": "Desculpa",
+          "ru": "Простите (извинение)"
+        },
+        {
+          "pt": "Não entendi",
+          "ru": "Я не понял"
+        },
+        {
+          "pt": "Pode repetir, por favor?",
+          "ru": "Можете повторить?"
+        },
+        {
+          "pt": "Mais devagar, por favor",
+          "ru": "Помедленнее, пожалуйста"
+        },
+        {
+          "pt": "Você fala inglês?",
+          "ru": "Вы говорите по-английски?"
+        },
+        {
+          "pt": "Como se diz isso em português?",
+          "ru": "Как это сказать по-португальски?"
+        },
+        {
+          "pt": "Sou da Rússia",
+          "ru": "Я из России"
+        },
+        {
+          "pt": "Prazer!",
+          "ru": "Приятно познакомиться!"
+        },
+        {
+          "pt": "Tchau! / Até logo!",
+          "ru": "Пока! / До встречи!"
+        },
+        {
+          "pt": "Beleza?",
+          "ru": "Как оно? (неформальное «привет»)"
+        },
+        {
+          "pt": "Valeu!",
+          "ru": "Спасибо! / Круто! (разг.)"
+        },
+        {
+          "pt": "Tá bom / Tá",
+          "ru": "Хорошо / Ок"
+        },
+        {
+          "pt": "Pode ser",
+          "ru": "Можно / Давайте",
+          "note": "очень частый ответ на предложение"
+        },
+        {
+          "pt": "Isso!",
+          "ru": "Да, именно! / Точно"
+        }
+      ]
+    },
+    {
+      "id": "numeros",
+      "name": "Числа, деньги, время",
+      "note": "Цены пишут с запятой: R$ 12,90 произносят «doze e noventa», слово «reais» часто опускают. В телефонных номерах шестёрку называют «meia» (от meia dúzia — полдюжины).",
+      "items": [
+        {
+          "pt": "um / uma, dois / duas, três",
+          "ru": "1, 2, 3",
+          "note": "у 1 и 2 есть женская форма: duas cervejas"
+        },
+        {
+          "pt": "quatro, cinco, seis, sete, oito, nove",
+          "ru": "4, 5, 6, 7, 8, 9"
+        },
+        {
+          "pt": "dez, vinte, trinta, cinquenta",
+          "ru": "10, 20, 30, 50"
+        },
+        {
+          "pt": "cem / cento e vinte",
+          "ru": "100 / 120"
+        },
+        {
+          "pt": "mil",
+          "ru": "1000"
+        },
+        {
+          "pt": "um real / dois reais",
+          "ru": "один реал / два реала"
+        },
+        {
+          "pt": "vinte e cinco e cinquenta",
+          "ru": "25,50 (о цене)"
+        },
+        {
+          "pt": "Quanto custa?",
+          "ru": "Сколько стоит?"
+        },
+        {
+          "pt": "Quanto fica? / Quanto é?",
+          "ru": "Сколько с меня?"
+        },
+        {
+          "pt": "Está caro / Está barato",
+          "ru": "Дорого / Дёшево"
+        },
+        {
+          "pt": "o troco",
+          "ru": "сдача"
+        },
+        {
+          "pt": "dinheiro (em espécie)",
+          "ru": "наличные"
+        },
+        {
+          "pt": "cartão de crédito / de débito",
+          "ru": "кредитная / дебетовая карта"
+        },
+        {
+          "pt": "Aceita cartão?",
+          "ru": "Карту принимаете?"
+        },
+        {
+          "pt": "por aproximação",
+          "ru": "бесконтактно"
+        },
+        {
+          "pt": "a maquininha",
+          "ru": "платёжный терминал"
+        },
+        {
+          "pt": "Que horas são?",
+          "ru": "Который час?"
+        },
+        {
+          "pt": "São três e meia",
+          "ru": "Половина четвёртого"
+        },
+        {
+          "pt": "meio-dia / meia-noite",
+          "ru": "полдень / полночь"
+        },
+        {
+          "pt": "hoje / amanhã / ontem",
+          "ru": "сегодня / завтра / вчера"
+        },
+        {
+          "pt": "segunda-feira, terça, quarta",
+          "ru": "понедельник, вторник, среда"
+        },
+        {
+          "pt": "quinta, sexta, sábado, domingo",
+          "ru": "четверг, пятница, суббота, воскресенье"
+        },
+        {
+          "pt": "fim de semana",
+          "ru": "выходные"
+        }
+      ]
+    },
+    {
+      "id": "mercado",
+      "name": "Магазин и покупки",
+      "note": "«CPF na nota?» спрашивают почти на каждой кассе — это налоговый номер бразильцев. Отвечай «Não, obrigado». Padaria — не просто пекарня: там завтракают, пьют кофе и покупают мелочи.",
+      "items": [
+        {
+          "pt": "o supermercado / o mercado",
+          "ru": "супермаркет / магазин"
+        },
+        {
+          "pt": "a padaria",
+          "ru": "пекарня-кафе"
+        },
+        {
+          "pt": "a feira",
+          "ru": "уличный рынок"
+        },
+        {
+          "pt": "Onde fica ...?",
+          "ru": "Где находится ...?"
+        },
+        {
+          "pt": "Vocês têm ...?",
+          "ru": "У вас есть ...?"
+        },
+        {
+          "pt": "Estou só olhando",
+          "ru": "Я просто смотрю"
+        },
+        {
+          "pt": "Posso experimentar?",
+          "ru": "Можно примерить / попробовать?"
+        },
+        {
+          "pt": "o provador",
+          "ru": "примерочная"
+        },
+        {
+          "pt": "tamanho P / M / G",
+          "ru": "размер S / M / L"
+        },
+        {
+          "pt": "Tem outra cor?",
+          "ru": "Есть другой цвет?"
+        },
+        {
+          "pt": "Tem menor / maior?",
+          "ru": "Есть поменьше / побольше?"
+        },
+        {
+          "pt": "Vou levar",
+          "ru": "Беру"
+        },
+        {
+          "pt": "a sacola",
+          "ru": "пакет"
+        },
+        {
+          "pt": "Precisa de sacola?",
+          "ru": "Нужен пакет?"
+        },
+        {
+          "pt": "CPF na nota?",
+          "ru": "Номер CPF в чек?",
+          "note": "ответ: Não, obrigado"
+        },
+        {
+          "pt": "a nota fiscal",
+          "ru": "чек"
+        },
+        {
+          "pt": "o caixa",
+          "ru": "касса / кассир"
+        },
+        {
+          "pt": "a fila",
+          "ru": "очередь"
+        },
+        {
+          "pt": "a promoção",
+          "ru": "акция, скидка"
+        },
+        {
+          "pt": "um quilo / meio quilo",
+          "ru": "кило / полкило"
+        },
+        {
+          "pt": "a garrafa / a lata",
+          "ru": "бутылка / банка"
+        },
+        {
+          "pt": "água com gás / sem gás",
+          "ru": "вода с газом / без газа"
+        },
+        {
+          "pt": "o protetor solar",
+          "ru": "солнцезащитный крем"
+        },
+        {
+          "pt": "o repelente",
+          "ru": "средство от комаров"
+        },
+        {
+          "pt": "o chinelo",
+          "ru": "шлёпанцы"
+        },
+        {
+          "pt": "Faz um desconto?",
+          "ru": "Сделаете скидку?"
+        }
+      ]
+    },
+    {
+      "id": "restaurante",
+      "name": "Ресторан, бар, еда",
+      "note": "Сервисный сбор 10% обычно уже включён в счёт и формально необязателен. «Por quilo» — берёшь еду сам и платишь за вес тарелки. В churrascaria (rodízio) мясо носят, пока твоя карточка лежит зелёной стороной вверх; красная — «хватит».",
+      "items": [
+        {
+          "pt": "Uma mesa para cinco, por favor",
+          "ru": "Столик на пятерых, пожалуйста"
+        },
+        {
+          "pt": "O cardápio, por favor",
+          "ru": "Меню, пожалуйста"
+        },
+        {
+          "pt": "Queria ...",
+          "ru": "Я бы хотел ..."
+        },
+        {
+          "pt": "Pra mim, um ...",
+          "ru": "Мне, пожалуйста, ..."
+        },
+        {
+          "pt": "O que você recomenda?",
+          "ru": "Что посоветуете?"
+        },
+        {
+          "pt": "o prato do dia / o PF",
+          "ru": "блюдо дня / комплексный обед"
+        },
+        {
+          "pt": "a porção",
+          "ru": "порция-закуска на компанию"
+        },
+        {
+          "pt": "Serve quantas pessoas?",
+          "ru": "На сколько человек порция?"
+        },
+        {
+          "pt": "sem carne / vegetariano",
+          "ru": "без мяса / вегетарианское"
+        },
+        {
+          "pt": "bem passado / ao ponto / mal passado",
+          "ru": "прожарка: well done / medium / rare"
+        },
+        {
+          "pt": "frango, carne, peixe, camarão",
+          "ru": "курица, говядина, рыба, креветки"
+        },
+        {
+          "pt": "arroz e feijão",
+          "ru": "рис и фасоль"
+        },
+        {
+          "pt": "a farofa",
+          "ru": "обжаренная мука из маниоки"
+        },
+        {
+          "pt": "o pão de queijo",
+          "ru": "сырная булочка"
+        },
+        {
+          "pt": "a picanha",
+          "ru": "пиканья (лучший стейк churrasco)"
+        },
+        {
+          "pt": "o suco natural de ...",
+          "ru": "свежевыжатый сок из ..."
+        },
+        {
+          "pt": "uma cerveja bem gelada",
+          "ru": "очень холодное пиво"
+        },
+        {
+          "pt": "o chope",
+          "ru": "разливное пиво"
+        },
+        {
+          "pt": "o cafezinho",
+          "ru": "маленький чёрный кофе"
+        },
+        {
+          "pt": "o garçom / moço, moça",
+          "ru": "официант / обращение к официанту"
+        },
+        {
+          "pt": "A conta, por favor",
+          "ru": "Счёт, пожалуйста"
+        },
+        {
+          "pt": "Os dez por cento estão incluídos?",
+          "ru": "Сервисный сбор включён?"
+        },
+        {
+          "pt": "Dá pra dividir?",
+          "ru": "Можно разделить счёт?"
+        },
+        {
+          "pt": "o rodízio",
+          "ru": "«ешь сколько хочешь», мясо разносят"
+        },
+        {
+          "pt": "comida por quilo",
+          "ru": "еда на вес"
+        },
+        {
+          "pt": "Estava delicioso!",
+          "ru": "Было очень вкусно!"
+        },
+        {
+          "pt": "Saúde!",
+          "ru": "За здоровье!"
+        }
+      ]
+    },
+    {
+      "id": "transporte",
+      "name": "Транспорт и город",
+      "note": "В городах почти все ездят на Uber или 99. Водитель часто пишет в чат — полезно уметь ответить «Estou na frente de ...» (я напротив ...).",
+      "items": [
+        {
+          "pt": "o aeroporto / a rodoviária",
+          "ru": "аэропорт / автовокзал"
+        },
+        {
+          "pt": "o metrô / o ônibus",
+          "ru": "метро / автобус"
+        },
+        {
+          "pt": "o ponto de ônibus",
+          "ru": "автобусная остановка"
+        },
+        {
+          "pt": "a passagem",
+          "ru": "билет на транспорт"
+        },
+        {
+          "pt": "ida e volta",
+          "ru": "туда и обратно"
+        },
+        {
+          "pt": "Qual ônibus vai para ...?",
+          "ru": "Какой автобус идёт до ...?"
+        },
+        {
+          "pt": "Quanto tempo leva?",
+          "ru": "Сколько времени ехать?"
+        },
+        {
+          "pt": "Pode parar aqui",
+          "ru": "Остановите здесь"
+        },
+        {
+          "pt": "o motorista",
+          "ru": "водитель"
+        },
+        {
+          "pt": "a corrida",
+          "ru": "поездка (в такси)"
+        },
+        {
+          "pt": "Estou na frente do hotel",
+          "ru": "Я стою у входа в отель"
+        },
+        {
+          "pt": "à direita / à esquerda",
+          "ru": "направо / налево"
+        },
+        {
+          "pt": "reto / em frente",
+          "ru": "прямо"
+        },
+        {
+          "pt": "perto / longe",
+          "ru": "близко / далеко"
+        },
+        {
+          "pt": "a esquina",
+          "ru": "угол улицы"
+        },
+        {
+          "pt": "o quarteirão",
+          "ru": "квартал"
+        },
+        {
+          "pt": "É perto daqui?",
+          "ru": "Это рядом?"
+        },
+        {
+          "pt": "Dá pra ir a pé?",
+          "ru": "Можно дойти пешком?"
+        },
+        {
+          "pt": "o centro / o bairro",
+          "ru": "центр / район"
+        },
+        {
+          "pt": "a mala / a bagagem",
+          "ru": "чемодан / багаж"
+        },
+        {
+          "pt": "o voo / o embarque / o portão",
+          "ru": "рейс / посадка / выход на посадку"
+        },
+        {
+          "pt": "O voo está atrasado",
+          "ru": "Рейс задерживается"
+        }
+      ]
+    },
+    {
+      "id": "caminho",
+      "name": "Как спросить дорогу",
+      "note": "Бразильцы редко отвечают «не знаю» и иногда показывают направление наугад — спроси двух прохожих. «Logo ali» («вот тут») может означать и 5, и 15 минут пешком. Вечером в незнакомом районе уточняй: «É seguro ir a pé?»",
+      "items": [
+        {
+          "pt": "Com licença, como eu chego em ...?",
+          "ru": "Извините, как добраться до ...?"
+        },
+        {
+          "pt": "Pode me ajudar? Acho que estou perdido",
+          "ru": "Поможете? Кажется, я заблудился",
+          "note": "женщина: perdida"
+        },
+        {
+          "pt": "Onde fica o ... mais próximo?",
+          "ru": "Где ближайший ...?"
+        },
+        {
+          "pt": "Estou procurando esta rua",
+          "ru": "Я ищу эту улицу"
+        },
+        {
+          "pt": "Você pode me mostrar no mapa?",
+          "ru": "Можете показать на карте?"
+        },
+        {
+          "pt": "É por aqui?",
+          "ru": "Это сюда? / Это здесь?"
+        },
+        {
+          "pt": "É longe daqui?",
+          "ru": "Это далеко отсюда?"
+        },
+        {
+          "pt": "Fica a quantos quarteirões?",
+          "ru": "Через сколько кварталов?"
+        },
+        {
+          "pt": "Qual é o caminho mais rápido?",
+          "ru": "Как быстрее всего?"
+        },
+        {
+          "pt": "É seguro ir a pé?",
+          "ru": "Безопасно идти пешком?"
+        },
+        {
+          "pt": "Segue reto até o semáforo",
+          "ru": "Идите прямо до светофора"
+        },
+        {
+          "pt": "o semáforo / o sinal",
+          "ru": "светофор"
+        },
+        {
+          "pt": "Vira na primeira à direita",
+          "ru": "Поверните на первом повороте направо"
+        },
+        {
+          "pt": "Pega a segunda à esquerda",
+          "ru": "Второй поворот налево"
+        },
+        {
+          "pt": "Atravessa a avenida",
+          "ru": "Перейдите проспект"
+        },
+        {
+          "pt": "do outro lado da rua",
+          "ru": "на другой стороне улицы"
+        },
+        {
+          "pt": "ao lado de / perto de",
+          "ru": "рядом с / недалеко от"
+        },
+        {
+          "pt": "em frente a / atrás de",
+          "ru": "напротив / позади"
+        },
+        {
+          "pt": "entre a farmácia e o banco",
+          "ru": "между аптекой и банком"
+        },
+        {
+          "pt": "na esquina / no fim da rua",
+          "ru": "на углу / в конце улицы"
+        },
+        {
+          "pt": "a faixa de pedestres",
+          "ru": "пешеходный переход"
+        },
+        {
+          "pt": "a passarela",
+          "ru": "надземный переход"
+        },
+        {
+          "pt": "o caixa eletrônico",
+          "ru": "банкомат"
+        },
+        {
+          "pt": "Sobe a rua / Desce a rua",
+          "ru": "Поднимитесь / спуститесь по улице"
+        },
+        {
+          "pt": "Fica a uns dez minutos a pé",
+          "ru": "Минут десять пешком"
+        },
+        {
+          "pt": "É logo ali",
+          "ru": "Это совсем рядом"
+        },
+        {
+          "pt": "Não tem erro!",
+          "ru": "Не ошибётесь!"
+        }
+      ]
+    },
+    {
+      "id": "carro",
+      "name": "Аренда машины и дорога",
+      "note": "Для аренды обычно нужны загранпаспорт, национальные права (международные желательны) и кредитная карта на имя водителя для залога — без неё машину, как правило, не выдают. Требования уточняй у прокатной компании при бронировании. На заправках в Бразилии заправляет сотрудник (frentista), выходить не нужно. Большинство машин «flex» — едут и на бензине, и на этаноле.",
+      "items": [
+        {
+          "pt": "Queria alugar um carro",
+          "ru": "Я хотел бы арендовать машину"
+        },
+        {
+          "pt": "a locadora",
+          "ru": "прокатная компания"
+        },
+        {
+          "pt": "Tenho uma reserva online",
+          "ru": "У меня онлайн-бронь"
+        },
+        {
+          "pt": "a carteira de motorista",
+          "ru": "водительские права"
+        },
+        {
+          "pt": "a permissão internacional para dirigir",
+          "ru": "международное водительское удостоверение"
+        },
+        {
+          "pt": "Qual é o valor da diária?",
+          "ru": "Сколько стоит сутки аренды?"
+        },
+        {
+          "pt": "a diária",
+          "ru": "сутки аренды"
+        },
+        {
+          "pt": "O seguro está incluído?",
+          "ru": "Страховка включена?"
+        },
+        {
+          "pt": "a proteção completa",
+          "ru": "полная страховка"
+        },
+        {
+          "pt": "a franquia",
+          "ru": "франшиза"
+        },
+        {
+          "pt": "a caução",
+          "ru": "залог (блокировка на карте)"
+        },
+        {
+          "pt": "quilometragem livre",
+          "ru": "без ограничения пробега"
+        },
+        {
+          "pt": "câmbio manual / automático",
+          "ru": "механика / автомат"
+        },
+        {
+          "pt": "o motorista adicional",
+          "ru": "дополнительный водитель"
+        },
+        {
+          "pt": "Posso devolver em outra cidade?",
+          "ru": "Можно вернуть в другом городе?"
+        },
+        {
+          "pt": "a taxa de retorno",
+          "ru": "сбор за возврат в другом городе"
+        },
+        {
+          "pt": "Tem que devolver com o tanque cheio?",
+          "ru": "Нужно вернуть с полным баком?"
+        },
+        {
+          "pt": "a vistoria",
+          "ru": "осмотр машины при выдаче и возврате"
+        },
+        {
+          "pt": "o arranhão / o amassado",
+          "ru": "царапина / вмятина"
+        },
+        {
+          "pt": "Esse arranhão já estava aqui",
+          "ru": "Эта царапина уже была"
+        },
+        {
+          "pt": "o posto de gasolina",
+          "ru": "заправка"
+        },
+        {
+          "pt": "Completa, por favor",
+          "ru": "Полный бак, пожалуйста"
+        },
+        {
+          "pt": "gasolina comum / etanol",
+          "ru": "обычный бензин / этанол"
+        },
+        {
+          "pt": "Pode calibrar os pneus?",
+          "ru": "Можете подкачать шины?"
+        },
+        {
+          "pt": "o pedágio",
+          "ru": "пункт оплаты платной дороги"
+        },
+        {
+          "pt": "a rodovia / a estrada",
+          "ru": "шоссе / дорога"
+        },
+        {
+          "pt": "a saída",
+          "ru": "съезд с трассы"
+        },
+        {
+          "pt": "o estacionamento",
+          "ru": "парковка"
+        },
+        {
+          "pt": "o flanelinha",
+          "ru": "неофициальный «парковщик» на улице"
+        },
+        {
+          "pt": "o radar / a lombada",
+          "ru": "камера скорости / лежачий полицейский"
+        },
+        {
+          "pt": "O carro quebrou",
+          "ru": "Машина сломалась"
+        },
+        {
+          "pt": "o pneu furado",
+          "ru": "проколотое колесо"
+        },
+        {
+          "pt": "o guincho",
+          "ru": "эвакуатор"
+        },
+        {
+          "pt": "a multa",
+          "ru": "штраф"
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "name": "Жильё",
+      "note": "«Portaria» в бразильских домах работает круглосуточно — если снимаете квартиру, ключи часто оставляют именно у porteiro.",
+      "items": [
+        {
+          "pt": "Tenho uma reserva em nome de ...",
+          "ru": "У меня бронь на имя ..."
+        },
+        {
+          "pt": "o quarto / a chave",
+          "ru": "номер / ключ"
+        },
+        {
+          "pt": "O café da manhã está incluído?",
+          "ru": "Завтрак включён?"
+        },
+        {
+          "pt": "A que horas é o café da manhã?",
+          "ru": "Во сколько завтрак?"
+        },
+        {
+          "pt": "Qual é a senha do wi-fi?",
+          "ru": "Какой пароль от wi-fi?"
+        },
+        {
+          "pt": "a toalha",
+          "ru": "полотенце"
+        },
+        {
+          "pt": "o ar-condicionado",
+          "ru": "кондиционер"
+        },
+        {
+          "pt": "o chuveiro",
+          "ru": "душ"
+        },
+        {
+          "pt": "Não está funcionando",
+          "ru": "Не работает"
+        },
+        {
+          "pt": "Posso deixar as malas aqui?",
+          "ru": "Можно оставить чемоданы?"
+        },
+        {
+          "pt": "a recepção",
+          "ru": "ресепшн"
+        },
+        {
+          "pt": "a portaria / o porteiro",
+          "ru": "вахта / консьерж"
+        },
+        {
+          "pt": "o anfitrião",
+          "ru": "хозяин жилья (Airbnb)"
+        },
+        {
+          "pt": "A que horas é o check-out?",
+          "ru": "Во сколько выезд?"
+        }
+      ]
+    },
+    {
+      "id": "saude",
+      "name": "Здоровье и экстренное",
+      "note": "Экстренные номера: 190 — полиция, 192 — скорая (SAMU), 193 — пожарные. В аптеках многие лекарства продаются без рецепта, фармацевт охотно подскажет.",
+      "items": [
+        {
+          "pt": "Socorro!",
+          "ru": "Помогите!"
+        },
+        {
+          "pt": "Preciso de ajuda",
+          "ru": "Мне нужна помощь"
+        },
+        {
+          "pt": "Chama uma ambulância!",
+          "ru": "Вызовите скорую!"
+        },
+        {
+          "pt": "Fui roubado",
+          "ru": "Меня обокрали"
+        },
+        {
+          "pt": "Perdi meu passaporte",
+          "ru": "Я потерял паспорт"
+        },
+        {
+          "pt": "Perdi meu celular",
+          "ru": "Я потерял телефон"
+        },
+        {
+          "pt": "Estou passando mal",
+          "ru": "Мне плохо"
+        },
+        {
+          "pt": "dor de cabeça / dor de barriga",
+          "ru": "головная боль / боль в животе"
+        },
+        {
+          "pt": "o remédio",
+          "ru": "лекарство"
+        },
+        {
+          "pt": "Tem alguma coisa para ...?",
+          "ru": "Есть что-нибудь от ...?"
+        },
+        {
+          "pt": "Precisa de receita?",
+          "ru": "Нужен рецепт?"
+        },
+        {
+          "pt": "a queimadura de sol",
+          "ru": "солнечный ожог"
+        },
+        {
+          "pt": "a picada de mosquito",
+          "ru": "укус комара"
+        },
+        {
+          "pt": "o pronto-socorro",
+          "ru": "приёмный покой, травмпункт"
+        },
+        {
+          "pt": "Cuidado!",
+          "ru": "Осторожно!"
+        },
+        {
+          "pt": "Onde fica o banheiro?",
+          "ru": "Где туалет?"
+        }
+      ]
+    },
+    {
+      "id": "passeio",
+      "name": "Пляж и прогулки",
+      "note": "На пляжах Рио палатки-barracas сдают кресла и зонты и записывают заказы в comanda — платишь всё в конце. На Игуасу из бразильского парка открывается панорама водопадов, лодочные туры обязательно намочат.",
+      "items": [
+        {
+          "pt": "a praia / o mar / a onda",
+          "ru": "пляж / море / волна"
+        },
+        {
+          "pt": "a cadeira / o guarda-sol",
+          "ru": "пляжное кресло / зонт"
+        },
+        {
+          "pt": "a barraca",
+          "ru": "пляжная палатка с сервисом"
+        },
+        {
+          "pt": "a comanda",
+          "ru": "счёт-листок, куда записывают заказы"
+        },
+        {
+          "pt": "a água de coco",
+          "ru": "кокосовая вода"
+        },
+        {
+          "pt": "o mirante",
+          "ru": "смотровая площадка"
+        },
+        {
+          "pt": "a trilha",
+          "ru": "пешая тропа"
+        },
+        {
+          "pt": "a cachoeira / as cataratas",
+          "ru": "водопад / водопады"
+        },
+        {
+          "pt": "o ingresso",
+          "ru": "входной билет"
+        },
+        {
+          "pt": "o bondinho",
+          "ru": "канатная дорога"
+        },
+        {
+          "pt": "Pode tirar uma foto da gente?",
+          "ru": "Можете нас сфотографировать?"
+        },
+        {
+          "pt": "Que lindo!",
+          "ru": "Как красиво!"
+        },
+        {
+          "pt": "Está calor / Está chovendo",
+          "ru": "Жарко / Идёт дождь"
+        },
+        {
+          "pt": "Está aberto? / Está fechado?",
+          "ru": "Открыто? / Закрыто?"
+        },
+        {
+          "pt": "o horário de funcionamento",
+          "ru": "часы работы"
+        },
+        {
+          "pt": "Vale a pena?",
+          "ru": "Оно того стоит?"
+        }
+      ]
+    },
+    {
+      "id": "conversa",
+      "name": "Разговор и сленг",
+      "note": "Главные слова-связки бразильской речи: «né?» (да ведь?), «tipo» (типа), «então» (так вот), «aí» (и тут). Их понимание сильно облегчает восприятие на слух.",
+      "items": [
+        {
+          "pt": "Como você se chama?",
+          "ru": "Как тебя зовут?"
+        },
+        {
+          "pt": "Meu nome é ...",
+          "ru": "Меня зовут ..."
+        },
+        {
+          "pt": "De onde você é?",
+          "ru": "Ты откуда?"
+        },
+        {
+          "pt": "Estou de férias",
+          "ru": "Я в отпуске"
+        },
+        {
+          "pt": "É minha primeira vez no Brasil",
+          "ru": "Я впервые в Бразилии"
+        },
+        {
+          "pt": "Estou aprendendo português",
+          "ru": "Я учу португальский"
+        },
+        {
+          "pt": "Falo só um pouco",
+          "ru": "Говорю совсем чуть-чуть"
+        },
+        {
+          "pt": "A gente está viajando com amigos",
+          "ru": "Мы путешествуем с друзьями"
+        },
+        {
+          "pt": "Legal!",
+          "ru": "Круто! Здорово!"
+        },
+        {
+          "pt": "Show! / Massa!",
+          "ru": "Класс!"
+        },
+        {
+          "pt": "Nossa!",
+          "ru": "Ого! Ничего себе!"
+        },
+        {
+          "pt": "Pode crer",
+          "ru": "Точно, согласен"
+        },
+        {
+          "pt": "Tranquilo",
+          "ru": "Спокойно, без проблем"
+        },
+        {
+          "pt": "Tô de boa",
+          "ru": "У меня всё норм"
+        },
+        {
+          "pt": "cara",
+          "ru": "чувак"
+        },
+        {
+          "pt": "Não tem problema",
+          "ru": "Без проблем"
+        },
+        {
+          "pt": "Com certeza",
+          "ru": "Конечно, обязательно"
+        },
+        {
+          "pt": "A gente se vê!",
+          "ru": "Увидимся!"
+        },
+        {
+          "pt": "né?",
+          "ru": "да? не так ли?"
+        }
+      ]
+    }
+  ]
+}

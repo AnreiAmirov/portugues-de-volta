@@ -1,0 +1,647 @@
+{
+  "learner": "Você",
+  "dialogs": [
+    {
+      "id": "padaria",
+      "title": "Na padaria — завтрак в Сан-Паулу",
+      "lines": [
+        {
+          "who": "Atendente",
+          "pt": "Bom dia! O que vai ser?",
+          "ru": "Доброе утро! Что будете?"
+        },
+        {
+          "who": "Você",
+          "pt": "Bom dia! Me vê um pão na chapa e um café com leite, por favor.",
+          "ru": "Доброе утро! Дайте мне поджаренный хлеб с маслом и кофе с молоком."
+        },
+        {
+          "who": "Atendente",
+          "pt": "Pequeno ou grande?",
+          "ru": "Маленький или большой?"
+        },
+        {
+          "who": "Você",
+          "pt": "Grande. E dois pães de queijo também.",
+          "ru": "Большой. И ещё две сырные булочки."
+        },
+        {
+          "who": "Atendente",
+          "pt": "Mais alguma coisa?",
+          "ru": "Что-нибудь ещё?"
+        },
+        {
+          "who": "Você",
+          "pt": "Não, só isso. Quanto fica?",
+          "ru": "Нет, это всё. Сколько с меня?"
+        },
+        {
+          "who": "Atendente",
+          "pt": "Dezoito e cinquenta. Débito ou crédito?",
+          "ru": "18,50. Дебет или кредит?"
+        },
+        {
+          "who": "Você",
+          "pt": "Crédito. Pode ser por aproximação?",
+          "ru": "Кредит. Можно бесконтактно?"
+        },
+        {
+          "who": "Atendente",
+          "pt": "Pode. CPF na nota?",
+          "ru": "Можно. CPF в чек?"
+        },
+        {
+          "who": "Você",
+          "pt": "Não, obrigado.",
+          "ru": "Нет, спасибо."
+        }
+      ]
+    },
+    {
+      "id": "restaurante",
+      "title": "No restaurante — ужин на пятерых",
+      "lines": [
+        {
+          "who": "Garçom",
+          "pt": "Boa noite! Quantas pessoas?",
+          "ru": "Добрый вечер! Сколько вас?"
+        },
+        {
+          "who": "Você",
+          "pt": "Cinco. Tem mesa lá fora?",
+          "ru": "Пятеро. Есть столик на улице?"
+        },
+        {
+          "who": "Garçom",
+          "pt": "Tem, sim. Aqui está o cardápio. Vão beber alguma coisa?",
+          "ru": "Есть. Вот меню. Будете что-нибудь пить?"
+        },
+        {
+          "who": "Você",
+          "pt": "Queria cinco caipirinhas e uma água sem gás.",
+          "ru": "Я бы хотел пять кайпириний и воду без газа."
+        },
+        {
+          "who": "Garçom",
+          "pt": "Caipirinha de limão?",
+          "ru": "Кайпиринью с лаймом?"
+        },
+        {
+          "who": "Você",
+          "pt": "Isso. E o que você recomenda pra comer?",
+          "ru": "Да. А что посоветуете из еды?"
+        },
+        {
+          "who": "Garçom",
+          "pt": "A picanha está ótima hoje. Serve duas pessoas.",
+          "ru": "Пиканья сегодня отличная. Порция на двоих."
+        },
+        {
+          "who": "Você",
+          "pt": "Então duas picanhas e uma porção de mandioca frita.",
+          "ru": "Тогда две пиканьи и порцию жареной маниоки."
+        },
+        {
+          "who": "Garçom",
+          "pt": "Ao ponto?",
+          "ru": "Средней прожарки?"
+        },
+        {
+          "who": "Você",
+          "pt": "Ao ponto, por favor. Moço, depois traz a conta, por favor. Dá pra dividir em cinco?",
+          "ru": "Да, пожалуйста. И потом принесите счёт. Можно разделить на пятерых?"
+        },
+        {
+          "who": "Garçom",
+          "pt": "Dá sim. Os dez por cento são opcionais.",
+          "ru": "Можно. Сервисные 10% — по желанию."
+        },
+        {
+          "who": "Você",
+          "pt": "Tudo certo. Estava tudo delicioso!",
+          "ru": "Всё в порядке. Было очень вкусно!"
+        }
+      ]
+    },
+    {
+      "id": "supermercado",
+      "title": "No supermercado — покупки к пляжу",
+      "lines": [
+        {
+          "who": "Você",
+          "pt": "Com licença, onde fica o protetor solar?",
+          "ru": "Извините, где солнцезащитный крем?"
+        },
+        {
+          "who": "Funcionário",
+          "pt": "No corredor sete, perto da farmácia.",
+          "ru": "В седьмом ряду, рядом с аптечным отделом."
+        },
+        {
+          "who": "Você",
+          "pt": "E a água com gás?",
+          "ru": "А вода с газом?"
+        },
+        {
+          "who": "Funcionário",
+          "pt": "Lá no fundo, nas geladeiras.",
+          "ru": "В конце зала, в холодильниках."
+        },
+        {
+          "who": "Caixa",
+          "pt": "Oi, tudo bem? Precisa de sacola?",
+          "ru": "Привет! Пакет нужен?"
+        },
+        {
+          "who": "Você",
+          "pt": "Sim, duas, por favor. Aceita cartão estrangeiro?",
+          "ru": "Да, два, пожалуйста. Иностранную карту принимаете?"
+        },
+        {
+          "who": "Caixa",
+          "pt": "Aceita, pode passar. CPF na nota?",
+          "ru": "Да, прикладывайте. CPF в чек?"
+        },
+        {
+          "who": "Você",
+          "pt": "Não precisa, obrigado.",
+          "ru": "Не нужно, спасибо."
+        }
+      ]
+    },
+    {
+      "id": "uber",
+      "title": "No Uber — из аэропорта",
+      "lines": [
+        {
+          "who": "Motorista",
+          "pt": "Oi, Andrei?",
+          "ru": "Привет, Андрей?"
+        },
+        {
+          "who": "Você",
+          "pt": "Isso! Oi, tudo bem?",
+          "ru": "Да! Привет, как дела?"
+        },
+        {
+          "who": "Motorista",
+          "pt": "Tudo. Pode colocar as malas no porta-malas. Vamos para Copacabana, né?",
+          "ru": "Нормально. Кладите чемоданы в багажник. Едем в Копакабану, да?"
+        },
+        {
+          "who": "Você",
+          "pt": "Isso. Quanto tempo leva, mais ou menos?",
+          "ru": "Да. Сколько примерно ехать?"
+        },
+        {
+          "who": "Motorista",
+          "pt": "Com esse trânsito, uns quarenta minutos.",
+          "ru": "С такими пробками — минут сорок."
+        },
+        {
+          "who": "Você",
+          "pt": "Tranquilo. Pode ligar o ar, por favor?",
+          "ru": "Нормально. Можете включить кондиционер?"
+        },
+        {
+          "who": "Motorista",
+          "pt": "Claro. É a primeira vez no Rio?",
+          "ru": "Конечно. Вы в Рио впервые?"
+        },
+        {
+          "who": "Você",
+          "pt": "Primeira vez no Brasil! Estou aprendendo português.",
+          "ru": "Впервые в Бразилии! Я учу португальский."
+        },
+        {
+          "who": "Motorista",
+          "pt": "Você fala bem, hein!",
+          "ru": "А вы хорошо говорите!"
+        },
+        {
+          "who": "Você",
+          "pt": "Valeu! Pode parar aqui na esquina.",
+          "ru": "Спасибо! Остановите здесь, на углу."
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "title": "No hotel — заселение",
+      "lines": [
+        {
+          "who": "Recepcionista",
+          "pt": "Boa tarde, sejam bem-vindos!",
+          "ru": "Добрый день, добро пожаловать!"
+        },
+        {
+          "who": "Você",
+          "pt": "Boa tarde! Tenho uma reserva em nome de Andrei.",
+          "ru": "Добрый день! У меня бронь на имя Андрей."
+        },
+        {
+          "who": "Recepcionista",
+          "pt": "Um momento... Três noites, dois quartos, certo? Posso ver os passaportes?",
+          "ru": "Минутку... Три ночи, два номера, верно? Можно паспорта?"
+        },
+        {
+          "who": "Você",
+          "pt": "Claro, aqui estão. O café da manhã está incluído?",
+          "ru": "Конечно, вот. Завтрак включён?"
+        },
+        {
+          "who": "Recepcionista",
+          "pt": "Está, sim. É servido das seis às dez.",
+          "ru": "Да. Подаётся с шести до десяти."
+        },
+        {
+          "who": "Você",
+          "pt": "E qual é a senha do wi-fi?",
+          "ru": "А какой пароль от wi-fi?"
+        },
+        {
+          "who": "Recepcionista",
+          "pt": "Está no cartão, junto com a chave.",
+          "ru": "На карточке, вместе с ключом."
+        },
+        {
+          "who": "Você",
+          "pt": "Posso deixar as malas aqui no dia do check-out?",
+          "ru": "Можно оставить чемоданы в день выезда?"
+        },
+        {
+          "who": "Recepcionista",
+          "pt": "Pode, sim. Temos um guarda-volumes.",
+          "ru": "Да, у нас есть камера хранения."
+        }
+      ]
+    },
+    {
+      "id": "informacao",
+      "title": "Pedindo informação — спросить дорогу",
+      "lines": [
+        {
+          "who": "Você",
+          "pt": "Com licença, como eu chego na estação de metrô?",
+          "ru": "Извините, как пройти к метро?"
+        },
+        {
+          "who": "Moradora",
+          "pt": "Segue reto nessa rua e na segunda esquina vira à direita.",
+          "ru": "Идите прямо по этой улице и на втором углу поверните направо."
+        },
+        {
+          "who": "Você",
+          "pt": "É longe?",
+          "ru": "Это далеко?"
+        },
+        {
+          "who": "Moradora",
+          "pt": "Não, uns cinco minutos a pé.",
+          "ru": "Нет, минут пять пешком."
+        },
+        {
+          "who": "Você",
+          "pt": "E dá pra ir de metrô até a praia?",
+          "ru": "А до пляжа можно доехать на метро?"
+        },
+        {
+          "who": "Moradora",
+          "pt": "Dá, sim. Desce na estação Cardeal Arcoverde.",
+          "ru": "Можно. Выходите на станции Cardeal Arcoverde."
+        },
+        {
+          "who": "Você",
+          "pt": "Muito obrigado!",
+          "ru": "Большое спасибо!"
+        },
+        {
+          "who": "Moradora",
+          "pt": "Imagina! Boa viagem!",
+          "ru": "Не за что! Хорошей поездки!"
+        }
+      ]
+    },
+    {
+      "id": "farmacia",
+      "title": "Na farmácia — после пляжа",
+      "lines": [
+        {
+          "who": "Você",
+          "pt": "Oi, boa tarde. Tem alguma coisa para queimadura de sol?",
+          "ru": "Добрый день. Есть что-нибудь от солнечного ожога?"
+        },
+        {
+          "who": "Farmacêutica",
+          "pt": "Tem este gel pós-sol com aloe vera. Está ardendo muito?",
+          "ru": "Есть этот гель после загара с алоэ. Сильно жжёт?"
+        },
+        {
+          "who": "Você",
+          "pt": "Um pouco. E também preciso de um remédio para dor de cabeça.",
+          "ru": "Немного. И ещё нужно что-нибудь от головной боли."
+        },
+        {
+          "who": "Farmacêutica",
+          "pt": "Dipirona ou paracetamol?",
+          "ru": "Дипирон или парацетамол?"
+        },
+        {
+          "who": "Você",
+          "pt": "Paracetamol, por favor. Precisa de receita?",
+          "ru": "Парацетамол. Нужен рецепт?"
+        },
+        {
+          "who": "Farmacêutica",
+          "pt": "Não precisa. Mais alguma coisa?",
+          "ru": "Не нужен. Что-нибудь ещё?"
+        },
+        {
+          "who": "Você",
+          "pt": "Um repelente para levar pra Foz do Iguaçu.",
+          "ru": "Средство от комаров — везу на Игуасу."
+        }
+      ]
+    },
+    {
+      "id": "praia",
+      "title": "Na praia — аренда кресел",
+      "lines": [
+        {
+          "who": "Barraqueiro",
+          "pt": "E aí, vão querer cadeira e guarda-sol?",
+          "ru": "Ну что, кресла и зонт будете брать?"
+        },
+        {
+          "who": "Você",
+          "pt": "Quanto é?",
+          "ru": "Сколько стоит?"
+        },
+        {
+          "who": "Barraqueiro",
+          "pt": "Cadeira dez, guarda-sol quinze.",
+          "ru": "Кресло — десять, зонт — пятнадцать."
+        },
+        {
+          "who": "Você",
+          "pt": "Cinco cadeiras e dois guarda-sóis, então. Faz um preço pra gente?",
+          "ru": "Тогда пять кресел и два зонта. Сделаете нам скидку?"
+        },
+        {
+          "who": "Barraqueiro",
+          "pt": "Pra vocês, setenta tudo.",
+          "ru": "Вам — семьдесят за всё."
+        },
+        {
+          "who": "Você",
+          "pt": "Fechado! E tem água de coco?",
+          "ru": "Договорились! А кокосовая вода есть?"
+        },
+        {
+          "who": "Barraqueiro",
+          "pt": "Tem, bem gelada. Anoto na comanda e vocês pagam no final.",
+          "ru": "Есть, ледяная. Запишу в счёт, заплатите в конце."
+        },
+        {
+          "who": "Você",
+          "pt": "Beleza!",
+          "ru": "Отлично!"
+        }
+      ]
+    },
+    {
+      "id": "cataratas",
+      "title": "Nas Cataratas — парк Игуасу",
+      "lines": [
+        {
+          "who": "Você",
+          "pt": "Bom dia! Queria cinco ingressos, por favor.",
+          "ru": "Доброе утро! Пять билетов, пожалуйста."
+        },
+        {
+          "who": "Atendente",
+          "pt": "Vocês são brasileiros ou estrangeiros?",
+          "ru": "Вы бразильцы или иностранцы?"
+        },
+        {
+          "who": "Você",
+          "pt": "Estrangeiros. Somos da Rússia.",
+          "ru": "Иностранцы. Мы из России."
+        },
+        {
+          "who": "Atendente",
+          "pt": "Aqui estão. O ônibus para a trilha sai ali, à esquerda.",
+          "ru": "Вот, держите. Автобус к тропе отходит слева."
+        },
+        {
+          "who": "Você",
+          "pt": "A trilha é muito longa?",
+          "ru": "Тропа длинная?"
+        },
+        {
+          "who": "Atendente",
+          "pt": "Não, mais ou menos uma hora, sem pressa.",
+          "ru": "Нет, примерно час, если не спешить."
+        },
+        {
+          "who": "Você",
+          "pt": "Vale a pena fazer o passeio de barco?",
+          "ru": "Стоит ли ехать на лодке?"
+        },
+        {
+          "who": "Atendente",
+          "pt": "Vale muito! Mas vocês vão se molhar, hein!",
+          "ru": "Очень! Но вы точно промокнете!"
+        }
+      ]
+    },
+    {
+      "id": "perdido",
+      "title": "Perdido no centro — подробно спросить дорогу",
+      "lines": [
+        {
+          "who": "Você",
+          "pt": "Com licença, moça, pode me ajudar? Acho que estou perdido.",
+          "ru": "Извините, девушка, поможете? Кажется, я заблудился."
+        },
+        {
+          "who": "Moça",
+          "pt": "Claro! Aonde você quer ir?",
+          "ru": "Конечно! Куда вам нужно?"
+        },
+        {
+          "who": "Você",
+          "pt": "Tô procurando o Theatro Municipal. É por aqui?",
+          "ru": "Я ищу Муниципальный театр. Это в эту сторону?"
+        },
+        {
+          "who": "Moça",
+          "pt": "É pertinho. Você segue reto até o semáforo, atravessa a avenida e vira na primeira à esquerda.",
+          "ru": "Совсем рядом. Идите прямо до светофора, перейдите проспект и поверните на первом повороте налево."
+        },
+        {
+          "who": "Você",
+          "pt": "Primeira à esquerda depois do semáforo... E depois?",
+          "ru": "Первый налево после светофора... А потом?"
+        },
+        {
+          "who": "Moça",
+          "pt": "Aí você anda uns dois quarteirões. O teatro fica do lado direito, em frente à praça.",
+          "ru": "Потом пройдёте квартала два. Театр будет справа, напротив площади."
+        },
+        {
+          "who": "Você",
+          "pt": "Dá uns dez minutos a pé?",
+          "ru": "Минут десять пешком?"
+        },
+        {
+          "who": "Moça",
+          "pt": "Menos, uns cinco. É logo ali.",
+          "ru": "Меньше, минут пять. Это совсем рядом."
+        },
+        {
+          "who": "Você",
+          "pt": "E é tranquilo andar por aqui?",
+          "ru": "А здесь спокойно гулять?"
+        },
+        {
+          "who": "Moça",
+          "pt": "De dia é tranquilo, mas fica de olho no celular.",
+          "ru": "Днём спокойно, но следите за телефоном."
+        },
+        {
+          "who": "Você",
+          "pt": "Pode deixar. Muito obrigado!",
+          "ru": "Обязательно. Большое спасибо!"
+        }
+      ]
+    },
+    {
+      "id": "locadora",
+      "title": "Na locadora — аренда машины",
+      "lines": [
+        {
+          "who": "Atendente",
+          "pt": "Bom dia! Tem reserva?",
+          "ru": "Доброе утро! У вас есть бронь?"
+        },
+        {
+          "who": "Você",
+          "pt": "Tenho, sim. Está no nome de Andrei. Aqui estão meu passaporte e a carteira de motorista.",
+          "ru": "Да. На имя Андрей. Вот мой паспорт и права."
+        },
+        {
+          "who": "Atendente",
+          "pt": "Perfeito. É um carro econômico, câmbio manual, com quilometragem livre.",
+          "ru": "Отлично. Эконом-класс, механика, без ограничения пробега."
+        },
+        {
+          "who": "Você",
+          "pt": "Dá pra trocar por um automático? Somos cinco, com malas.",
+          "ru": "Можно поменять на автомат? Нас пятеро, с чемоданами."
+        },
+        {
+          "who": "Atendente",
+          "pt": "Tenho um SUV automático, mas a diária fica um pouco mais cara.",
+          "ru": "Есть внедорожник-автомат, но сутки чуть дороже."
+        },
+        {
+          "who": "Você",
+          "pt": "Quanto a mais? E o seguro está incluído?",
+          "ru": "Насколько дороже? И страховка включена?"
+        },
+        {
+          "who": "Atendente",
+          "pt": "Oitenta reais a mais por dia. A proteção básica está incluída; a completa zera a franquia.",
+          "ru": "На восемьдесят реалов в день. Базовая страховка включена, полная обнуляет франшизу."
+        },
+        {
+          "who": "Você",
+          "pt": "Vou querer a completa. Posso devolver em outra cidade?",
+          "ru": "Возьму полную. Можно вернуть в другом городе?"
+        },
+        {
+          "who": "Atendente",
+          "pt": "Pode, mas tem taxa de retorno. E vou precisar de um cartão de crédito pra caução.",
+          "ru": "Можно, но есть сбор за возврат. И понадобится кредитная карта для залога."
+        },
+        {
+          "who": "Você",
+          "pt": "Tudo bem. Tem que devolver com o tanque cheio?",
+          "ru": "Хорошо. Вернуть нужно с полным баком?"
+        },
+        {
+          "who": "Atendente",
+          "pt": "Com o mesmo nível que você retirou. Vamos fazer a vistoria juntos?",
+          "ru": "С тем же уровнем, что при получении. Осмотрим машину вместе?"
+        },
+        {
+          "who": "Você",
+          "pt": "Vamos. Olha, esse arranhão aqui na porta já estava.",
+          "ru": "Давайте. Смотрите, вот эта царапина на двери уже была."
+        },
+        {
+          "who": "Atendente",
+          "pt": "Anotado. Pronto, boa viagem!",
+          "ru": "Записал. Всё, хорошей дороги!"
+        }
+      ]
+    },
+    {
+      "id": "posto",
+      "title": "No posto de gasolina — заправка и трасса",
+      "lines": [
+        {
+          "who": "Frentista",
+          "pt": "Bom dia! Completa?",
+          "ru": "Доброе утро! Полный бак?"
+        },
+        {
+          "who": "Você",
+          "pt": "Completa, por favor. Gasolina comum.",
+          "ru": "Полный, пожалуйста. Обычный бензин."
+        },
+        {
+          "who": "Frentista",
+          "pt": "Quer que eu calibre os pneus?",
+          "ru": "Подкачать шины?"
+        },
+        {
+          "who": "Você",
+          "pt": "Pode calibrar, obrigado. Aceita cartão?",
+          "ru": "Да, спасибо. Карту принимаете?"
+        },
+        {
+          "who": "Frentista",
+          "pt": "Aceita. Crédito ou débito?",
+          "ru": "Принимаем. Кредит или дебет?"
+        },
+        {
+          "who": "Você",
+          "pt": "Crédito. Uma pergunta: pra Paraty é por essa estrada?",
+          "ru": "Кредит. Вопрос: до Парати по этой дороге?"
+        },
+        {
+          "who": "Frentista",
+          "pt": "É, sim. Segue pela Rio-Santos. Tem pedágio no caminho.",
+          "ru": "Да. Езжайте по трассе Рио-Сантус. По дороге будет платный участок."
+        },
+        {
+          "who": "Você",
+          "pt": "Aceitam cartão no pedágio?",
+          "ru": "На платной дороге карту принимают?"
+        },
+        {
+          "who": "Frentista",
+          "pt": "Geralmente sim, mas é bom ter dinheiro trocado.",
+          "ru": "Обычно да, но лучше иметь мелкие наличные."
+        },
+        {
+          "who": "Você",
+          "pt": "Valeu! Bom dia!",
+          "ru": "Спасибо! Хорошего дня!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+{
+  "units": [
+    {
+      "id": "pronuncia",
+      "title": "Произношение: как звучит Бразилия",
+      "week": 1,
+      "file": "01-pronuncia.html",
+      "exercises": [
+        {
+          "q": "Как звучит «cidade»?",
+          "a": "сидаджи",
+          "wrong": [
+            "сидаде",
+            "кидаде"
+          ]
+        },
+        {
+          "q": "Как звучит «Rio»?",
+          "a": "хиу",
+          "wrong": [
+            "рио",
+            "риу"
+          ]
+        },
+        {
+          "q": "В каком слове «р» звучит как русское?",
+          "a": "caro",
+          "wrong": [
+            "carro",
+            "Rio"
+          ]
+        },
+        {
+          "q": "Как звучит «Brasil»?",
+          "a": "бразиу",
+          "wrong": [
+            "бразил",
+            "бразиль"
+          ]
+        },
+        {
+          "q": "Как звучит «noite»?",
+          "a": "нойчи",
+          "wrong": [
+            "нойте",
+            "нойти"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "artigos",
+      "title": "Род, артикли, множественное число",
+      "week": 1,
+      "file": "02-artigos.html",
+      "exercises": [
+        {
+          "q": "o hotel → os ___",
+          "a": "hotéis",
+          "wrong": [
+            "hotels",
+            "hoteles"
+          ]
+        },
+        {
+          "q": "a estação → as ___",
+          "a": "estações",
+          "wrong": [
+            "estaçãos",
+            "estaçães"
+          ]
+        },
+        {
+          "q": "___ problema",
+          "a": "o",
+          "wrong": [
+            "a"
+          ]
+        },
+        {
+          "q": "dois ___ (real)",
+          "a": "reais",
+          "wrong": [
+            "reals",
+            "reales"
+          ]
+        },
+        {
+          "q": "___ foto",
+          "a": "a",
+          "wrong": [
+            "o"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronomes",
+      "title": "Местоимения, você и a gente",
+      "week": 1,
+      "file": "03-pronomes.html",
+      "exercises": [
+        {
+          "q": "A gente ___ à praia amanhã.",
+          "a": "vai",
+          "wrong": [
+            "vamos",
+            "vão"
+          ]
+        },
+        {
+          "q": "Esse é o ___ passaporte. (мой)",
+          "a": "meu",
+          "wrong": [
+            "minha",
+            "seu"
+          ]
+        },
+        {
+          "q": "Вежливо обратиться к пожилому человеку:",
+          "a": "o senhor",
+          "wrong": [
+            "você",
+            "tu"
+          ]
+        },
+        {
+          "q": "A mala ___ está no carro. (её)",
+          "a": "dela",
+          "wrong": [
+            "sua",
+            "ela"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ser-estar-ficar",
+      "title": "Ser, estar, ficar",
+      "week": 1,
+      "file": "04-ser-estar-ficar.html",
+      "exercises": [
+        {
+          "q": "Eu ___ russo.",
+          "a": "sou",
+          "wrong": [
+            "estou",
+            "fico"
+          ]
+        },
+        {
+          "q": "A sopa ___ fria.",
+          "a": "está",
+          "wrong": [
+            "é",
+            "fica"
+          ]
+        },
+        {
+          "q": "Nós vamos ___ três dias no Rio.",
+          "a": "ficar",
+          "wrong": [
+            "ser",
+            "estar"
+          ]
+        },
+        {
+          "q": "Hoje ___ muito calor.",
+          "a": "está",
+          "wrong": [
+            "é",
+            "fica"
+          ]
+        },
+        {
+          "q": "São Paulo ___ uma cidade enorme.",
+          "a": "é",
+          "wrong": [
+            "está"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "presente-regular",
+      "title": "Настоящее время: правильные глаголы",
+      "week": 2,
+      "file": "05-presente-regular.html",
+      "exercises": [
+        {
+          "q": "Eu ___ em Moscou. (morar)",
+          "a": "moro",
+          "wrong": [
+            "mora",
+            "moramos"
+          ]
+        },
+        {
+          "q": "Vocês ___ carne? (comer)",
+          "a": "comem",
+          "wrong": [
+            "come",
+            "comemos"
+          ]
+        },
+        {
+          "q": "A loja ___ às nove. (abrir)",
+          "a": "abre",
+          "wrong": [
+            "abro",
+            "abrem"
+          ]
+        },
+        {
+          "q": "Nós ___ um pouco de português. (falar)",
+          "a": "falamos",
+          "wrong": [
+            "falam",
+            "fala"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "presente-irregular",
+      "title": "Неправильные глаголы, без которых никуда",
+      "week": 2,
+      "file": "06-presente-irregular.html",
+      "exercises": [
+        {
+          "q": "Eu não ___. (saber)",
+          "a": "sei",
+          "wrong": [
+            "sabo",
+            "sabe"
+          ]
+        },
+        {
+          "q": "___ mesa para cinco? (ter)",
+          "a": "Tem",
+          "wrong": [
+            "Tenho",
+            "Têm"
+          ]
+        },
+        {
+          "q": "Eu ___ pagar com cartão? (poder)",
+          "a": "posso",
+          "wrong": [
+            "podo",
+            "pode"
+          ]
+        },
+        {
+          "q": "Eu ___ um café, por favor. (querer)",
+          "a": "quero",
+          "wrong": [
+            "quer",
+            "queiro"
+          ]
+        },
+        {
+          "q": "Eles ___ amanhã. (vir)",
+          "a": "vêm",
+          "wrong": [
+            "vem",
+            "venho"
+          ]
+        },
+        {
+          "q": "O que você ___ amanhã? (fazer)",
+          "a": "faz",
+          "wrong": [
+            "faço",
+            "fazem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preposicoes",
+      "title": "Предлоги и слияния",
+      "week": 2,
+      "file": "07-preposicoes.html",
+      "exercises": [
+        {
+          "q": "Estou ___ hotel.",
+          "a": "no",
+          "wrong": [
+            "em o",
+            "na"
+          ]
+        },
+        {
+          "q": "Vou ___ praia. (разг.)",
+          "a": "pra",
+          "wrong": [
+            "pro",
+            "no"
+          ]
+        },
+        {
+          "q": "Sou ___ Rússia.",
+          "a": "da",
+          "wrong": [
+            "de",
+            "do"
+          ]
+        },
+        {
+          "q": "Dá pra ir ___ pé?",
+          "a": "a",
+          "wrong": [
+            "de",
+            "em"
+          ]
+        },
+        {
+          "q": "Obrigado ___ ajuda.",
+          "a": "pela",
+          "wrong": [
+            "pelo",
+            "para a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedidos",
+      "title": "Вежливые просьбы",
+      "week": 3,
+      "file": "08-pedidos.html",
+      "exercises": [
+        {
+          "q": "Самый вежливый способ заказать сок:",
+          "a": "Queria um suco, por favor.",
+          "wrong": [
+            "Quero suco.",
+            "Dá um suco."
+          ]
+        },
+        {
+          "q": "«Можно заплатить картой?»",
+          "a": "Dá pra pagar com cartão?",
+          "wrong": [
+            "Tem pagar cartão?",
+            "Posso cartão pagar?"
+          ]
+        },
+        {
+          "q": "«Принесите, пожалуйста, меню»",
+          "a": "Me traz o cardápio, por favor?",
+          "wrong": [
+            "Trazes cardápio mim?",
+            "O cardápio trazer?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perguntas",
+      "title": "Вопросительные слова",
+      "week": 3,
+      "file": "09-perguntas.html",
+      "exercises": [
+        {
+          "q": "___ custa? (сколько)",
+          "a": "Quanto",
+          "wrong": [
+            "Quando",
+            "Qual"
+          ]
+        },
+        {
+          "q": "___ é o seu nome?",
+          "a": "Qual",
+          "wrong": [
+            "Que",
+            "Quem"
+          ]
+        },
+        {
+          "q": "___ fica o banheiro?",
+          "a": "Onde",
+          "wrong": [
+            "Aonde",
+            "De onde"
+          ]
+        },
+        {
+          "q": "___ você é? — Da Rússia.",
+          "a": "De onde",
+          "wrong": [
+            "Onde",
+            "Aonde"
+          ]
+        },
+        {
+          "q": "___ chega o ônibus? (когда)",
+          "a": "Quando",
+          "wrong": [
+            "Quanto",
+            "Como"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perfeito",
+      "title": "Прошедшее: pretérito perfeito (законченное действие)",
+      "week": 4,
+      "file": "10-perfeito.html",
+      "razborTitle": "Разборы",
+      "razbors": [
+        {
+          "s": "Ontem a gente pegou um Uber e chegou no hotel às dez.",
+          "ru": "Вчера мы взяли Uber и приехали в отель в десять.",
+          "points": [
+            "[[Ontem]] — маркер: действие закрыто в прошлом, значит perfeito",
+            "[[a gente pegou]] — pegar в 3-м лице: с a gente глагол всегда как с ele",
+            "[[chegou no hotel]] — chegar; в речи говорят «chegar no», в учебниках «chegar ao»",
+            "[[às dez]] — a + as: время всегда с артиклем"
+          ]
+        },
+        {
+          "s": "Eu já paguei a conta.",
+          "ru": "Я уже оплатил счёт.",
+          "points": [
+            "[[paguei]] — pagar: pagu- + ei, буква u сохраняет твёрдое «г»",
+            "[[já]] + perfeito = «уже сделал»; отдельный перфект для этого в Бразилии не нужен"
+          ]
+        },
+        {
+          "s": "Você já esteve no Brasil? — Não, é a primeira vez.",
+          "ru": "Ты уже бывал в Бразилии? — Нет, впервые.",
+          "points": [
+            "[[esteve]] — estar, неправильная форма; вопрос об опыте = já + perfeito",
+            "Так же часто говорят с ir: [[Você já foi ao Brasil?]]",
+            "[[é a primeira vez]] — настоящее время, потому что визит идёт сейчас"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "q": "Eu ___ o ônibus errado. (pegar)",
+          "a": "peguei",
+          "wrong": [
+            "pegei",
+            "pegou"
+          ]
+        },
+        {
+          "q": "Semana passada eles ___ pra Salvador. (ir)",
+          "a": "foram",
+          "wrong": [
+            "fomos",
+            "vão"
+          ]
+        },
+        {
+          "q": "Ontem eu ___ às oito. (chegar)",
+          "a": "cheguei",
+          "wrong": [
+            "chegei",
+            "chegou"
+          ]
+        },
+        {
+          "q": "Ela não ___ vir. (poder)",
+          "a": "pôde",
+          "wrong": [
+            "pude",
+            "posso"
+          ]
+        },
+        {
+          "q": "O que você ___ ontem? (fazer)",
+          "a": "fez",
+          "wrong": [
+            "fiz",
+            "faz"
+          ]
+        },
+        {
+          "q": "Eu ___ o passaporte na mochila. (pôr)",
+          "a": "pus",
+          "wrong": [
+            "pôs",
+            "ponhei"
+          ]
+        },
+        {
+          "q": "Ele ___ que ia chover. (dizer)",
+          "a": "disse",
+          "wrong": [
+            "dizeu",
+            "diz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "imperfeito",
+      "title": "Imperfeito: фон, привычки, описания",
+      "week": 4,
+      "file": "11-imperfeito.html",
+      "razborTitle": "Разборы",
+      "razbors": [
+        {
+          "s": "Quando a gente chegou, estava chovendo.",
+          "ru": "Когда мы приехали, шёл дождь.",
+          "points": [
+            "[[chegou]] — perfeito: событие-точка, «приехали»",
+            "[[estava chovendo]] — imperfeito от estar + герундий: дождь уже шёл и продолжался, это фон"
+          ]
+        },
+        {
+          "s": "Eu morava em Paris e trabalhava num banco.",
+          "ru": "Я жил в Париже и работал в банке.",
+          "points": [
+            "[[morava]], [[trabalhava]] — длительные состояния без чётких границ, поэтому imperfeito",
+            "Если назвать срок, будет perfeito: [[Morei dois anos em Paris]] — «прожил два года»"
+          ]
+        },
+        {
+          "s": "Eu não sabia que precisava de reserva.",
+          "ru": "Я не знал, что нужна бронь.",
+          "points": [
+            "[[sabia]] — состояние знания, imperfeito",
+            "[[precisava]] — в пересказе прошлого придаточное тоже уходит в imperfeito"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "q": "Quando eu ___ criança, morava em Moscou. (ser)",
+          "a": "era",
+          "wrong": [
+            "fui",
+            "sou"
+          ]
+        },
+        {
+          "q": "A gente ___ na praia quando começou a chover. (estar)",
+          "a": "estava",
+          "wrong": [
+            "esteve",
+            "está"
+          ]
+        },
+        {
+          "q": "Eu ___ o Pedro ontem na festa. (conhecer — познакомился)",
+          "a": "conheci",
+          "wrong": [
+            "conhecia"
+          ]
+        },
+        {
+          "q": "Eu não ___ que o museu fechava na segunda. (saber — не знал)",
+          "a": "sabia",
+          "wrong": [
+            "soube"
+          ]
+        },
+        {
+          "q": "Todo verão a gente ___ pro litoral. (ir)",
+          "a": "ia",
+          "wrong": [
+            "foi",
+            "vai"
+          ]
+        },
+        {
+          "q": "___ onze horas quando o voo saiu. (ser)",
+          "a": "Eram",
+          "wrong": [
+            "Foram",
+            "São"
+          ]
+        },
+        {
+          "q": "Ontem eu ___ duas horas na fila! (esperar — прождал, срок указан)",
+          "a": "esperei",
+          "wrong": [
+            "esperava"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "futuro",
+      "title": "Будущее и условное",
+      "week": 5,
+      "file": "12-futuro.html",
+      "razborTitle": "Разборы",
+      "razbors": [
+        {
+          "s": "Amanhã a gente vai alugar um carro e vai pra Paraty.",
+          "ru": "Завтра мы возьмём машину и поедем в Парати.",
+          "points": [
+            "[[vai alugar]] — ir в форме a gente + инфинитив: план на завтра",
+            "[[vai pra Paraty]] — здесь ir смысловой глагол «ехать», второй ir не нужен"
+          ]
+        },
+        {
+          "s": "Seria possível fazer o check-out mais tarde?",
+          "ru": "Можно было бы выехать попозже?",
+          "points": [
+            "[[Seria]] — ser в условном: самая мягкая форма просьбы",
+            "[[possível fazer]] — после possível идёт инфинитив без предлога"
+          ]
+        },
+        {
+          "s": "Tô chegando!",
+          "ru": "Уже подъезжаю!",
+          "points": [
+            "[[tô]] = estou, [[chegando]] = chegar + ando",
+            "Бразильское «tô chegando» может означать и «через минуту», и «через двадцать минут»"
+          ]
+        },
+        {
+          "s": "O locatário devolverá o veículo com o tanque cheio.",
+          "ru": "Арендатор вернёт автомобиль с полным баком.",
+          "points": [
+            "[[devolverá]] — простое будущее: так пишут в договоре аренды",
+            "Устно это прозвучит так: [[Você vai devolver o carro com o tanque cheio.]]"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "q": "Nós ___ viajar amanhã.",
+          "a": "vamos",
+          "wrong": [
+            "vai",
+            "vão"
+          ]
+        },
+        {
+          "q": "Estou ___ o ônibus. (esperar)",
+          "a": "esperando",
+          "wrong": [
+            "esperado",
+            "esperindo"
+          ]
+        },
+        {
+          "q": "Está ___ muito. (chover)",
+          "a": "chovendo",
+          "wrong": [
+            "chovindo",
+            "choveu"
+          ]
+        },
+        {
+          "q": "Amanhã a gente ___ jantar fora.",
+          "a": "vai",
+          "wrong": [
+            "foi",
+            "ia"
+          ]
+        },
+        {
+          "q": "Eu ___ um café, se tivesse tempo. (tomar — условное)",
+          "a": "tomaria",
+          "wrong": [
+            "tomarei",
+            "tomo"
+          ]
+        },
+        {
+          "q": "O voo ___ às seis amanhã. (sair — по расписанию)",
+          "a": "sai",
+          "wrong": [
+            "saía",
+            "saiu"
+          ]
+        },
+        {
+          "q": "В договоре: «O cliente pagará a multa». Как это скажут вслух: «O cliente ___ a multa»",
+          "a": "vai pagar",
+          "wrong": [
+            "pagou",
+            "pagava"
+          ]
+        },
+        {
+          "q": "Самая мягкая просьба: «___ possível trocar de quarto?»",
+          "a": "Seria",
+          "wrong": [
+            "É",
+            "Foi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "imperativo",
+      "title": "Указания и повелительное наклонение",
+      "week": 5,
+      "file": "13-imperativo.html",
+      "exercises": [
+        {
+          "q": "«Vira à esquerda»",
+          "a": "Поверни налево",
+          "wrong": [
+            "Иди прямо",
+            "Поверни направо"
+          ]
+        },
+        {
+          "q": "«Siga reto»",
+          "a": "Идите прямо",
+          "wrong": [
+            "Поверните",
+            "Остановитесь"
+          ]
+        },
+        {
+          "q": "«Atravessa a rua»",
+          "a": "Перейди улицу",
+          "wrong": [
+            "Иди вдоль улицы",
+            "Остановись на улице"
+          ]
+        },
+        {
+          "q": "«Puxe» на двери",
+          "a": "На себя",
+          "wrong": [
+            "От себя",
+            "Закрыто"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mapa-dos-tempos",
+      "title": "Карта времён и большой разбор",
+      "week": 5,
+      "file": "14-mapa-dos-tempos.html",
+      "razborTitle": "Большой разбор: история с пляжа",
+      "razbors": [
+        {
+          "s": "Ontem a gente tava na praia quando começou a chover. A gente ia voltar pro hotel, mas um cara disse que a chuva ia passar logo. E passou! Amanhã vamos pra Iguaçu.",
+          "ru": "Вчера мы были на пляже, когда начался дождь. Мы собирались вернуться в отель, но один парень сказал, что дождь скоро пройдёт. И прошёл! Завтра едем на Игуасу.",
+          "points": [
+            "[[tava]] (= estava) — imperfeito: фон, «были на пляже»",
+            "[[começou a chover]] — perfeito: событие, которое врезалось в фон",
+            "[[ia voltar]] — ia + инфинитив: «собирались», но не сделали",
+            "[[disse]] — perfeito от dizer: сказал один раз",
+            "[[ia passar]] — будущее внутри прошлого: «пройдёт» с точки зрения того момента",
+            "[[passou]] — perfeito: результат",
+            "[[vamos pra Iguaçu]] — ir в настоящем как ближайший план"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "q": "Ultimamente eu ___ muito português. (estudar)",
+          "a": "tenho estudado",
+          "wrong": [
+            "estudei",
+            "estudava"
+          ]
+        },
+        {
+          "q": "Quando cheguei, o ônibus já ___. (sair — уже ушёл)",
+          "a": "tinha saído",
+          "wrong": [
+            "saía",
+            "sai"
+          ]
+        },
+        {
+          "q": "Eu ___ te ligar, mas esqueci. (собирался)",
+          "a": "ia",
+          "wrong": [
+            "vou",
+            "fui"
+          ]
+        },
+        {
+          "q": "Semana que vem a gente ___ pro Rio.",
+          "a": "vai",
+          "wrong": [
+            "foi",
+            "ia"
+          ]
+        },
+        {
+          "q": "Agora eu ___ o metrô. (esperar — прямо сейчас)",
+          "a": "estou esperando",
+          "wrong": [
+            "esperei",
+            "esperava"
+          ]
+        },
+        {
+          "q": "«Я сделал бронь» — это…",
+          "a": "Fiz a reserva",
+          "wrong": [
+            "Tenho feito a reserva",
+            "Fazia a reserva"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "subjuntivo",
+      "title": "Сослагательное: узнавать в готовых фразах",
+      "week": 6,
+      "file": "15-subjuntivo.html",
+      "exercises": [
+        {
+          "q": "«Tomara que faça sol» значит…",
+          "a": "Хоть бы было солнечно",
+          "wrong": [
+            "Было солнечно",
+            "Будет солнечно"
+          ]
+        },
+        {
+          "q": "«Quando você chegar no hotel, me manda mensagem» — что нужно сделать?",
+          "a": "Написать, когда приедешь",
+          "wrong": [
+            "Написать прямо сейчас",
+            "Позвонить завтра"
+          ]
+        },
+        {
+          "q": "«Se eu fosse você…» — это…",
+          "a": "На твоём месте…",
+          "wrong": [
+            "Если ты пойдёшь…",
+            "Когда ты был…"
+          ]
+        }
+      ]
+    }
+  ]
+}

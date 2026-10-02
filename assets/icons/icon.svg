@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#17558f"/>
+  <path d="M0 330 C 64 280, 128 280, 192 330 S 320 380, 384 330 S 480 280, 512 300 L512 512 L0 512 Z" fill="#fbfaf6"/>
+  <path d="M0 400 C 64 350, 128 350, 192 400 S 320 450, 384 400 S 480 350, 512 370 L512 512 L0 512 Z" fill="#1c1d1f"/>
+  <circle cx="370" cy="150" r="62" fill="#e9b31f"/>
+  <text x="70" y="250" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="150" fill="#fbfaf6">Pt</text>
+</svg>

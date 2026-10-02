@@ -1,0 +1,213 @@
+{
+  "emergency": [
+    {
+      "number": "190",
+      "label": "Полиция"
+    },
+    {
+      "number": "192",
+      "label": "Скорая (SAMU)"
+    },
+    {
+      "number": "193",
+      "label": "Пожарные"
+    }
+  ],
+  "groups": [
+    {
+      "title": "Главное",
+      "items": [
+        {
+          "pt": "Com licença",
+          "ru": "Извините / разрешите"
+        },
+        {
+          "pt": "Não entendi, pode repetir?",
+          "ru": "Не понял, повторите?"
+        },
+        {
+          "pt": "Mais devagar, por favor",
+          "ru": "Помедленнее"
+        },
+        {
+          "pt": "Você fala inglês?",
+          "ru": "Вы говорите по-английски?"
+        },
+        {
+          "pt": "Tem ...?",
+          "ru": "Есть ...?"
+        },
+        {
+          "pt": "Onde fica ...?",
+          "ru": "Где находится ...?"
+        },
+        {
+          "pt": "Quanto custa?",
+          "ru": "Сколько стоит?"
+        }
+      ]
+    },
+    {
+      "title": "Еда",
+      "items": [
+        {
+          "pt": "Uma mesa para cinco",
+          "ru": "Столик на пятерых"
+        },
+        {
+          "pt": "Queria ...",
+          "ru": "Я бы хотел ..."
+        },
+        {
+          "pt": "O que você recomenda?",
+          "ru": "Что посоветуете?"
+        },
+        {
+          "pt": "A conta, por favor",
+          "ru": "Счёт"
+        },
+        {
+          "pt": "Dá pra dividir?",
+          "ru": "Разделить счёт?"
+        },
+        {
+          "pt": "sem gás / com gás",
+          "ru": "без газа / с газом"
+        }
+      ]
+    },
+    {
+      "title": "Оплата",
+      "items": [
+        {
+          "pt": "Aceita cartão?",
+          "ru": "Карту принимаете?"
+        },
+        {
+          "pt": "Crédito, por aproximação",
+          "ru": "Кредит, бесконтактно"
+        },
+        {
+          "pt": "CPF na nota? — Não, obrigado",
+          "ru": "CPF в чек? — Нет"
+        },
+        {
+          "pt": "Faz um desconto?",
+          "ru": "Сделаете скидку?"
+        },
+        {
+          "pt": "o troco",
+          "ru": "сдача"
+        }
+      ]
+    },
+    {
+      "title": "Дорога",
+      "items": [
+        {
+          "pt": "Como eu chego em ...?",
+          "ru": "Как добраться до ...?"
+        },
+        {
+          "pt": "É perto? Dá pra ir a pé?",
+          "ru": "Близко? Пешком дойти можно?"
+        },
+        {
+          "pt": "à direita / à esquerda / reto",
+          "ru": "направо / налево / прямо"
+        },
+        {
+          "pt": "Pode parar aqui",
+          "ru": "Остановите здесь"
+        },
+        {
+          "pt": "Estou na frente de ...",
+          "ru": "Я стою у ..."
+        }
+      ]
+    },
+    {
+      "title": "Машина",
+      "items": [
+        {
+          "pt": "Queria alugar um carro",
+          "ru": "Хочу арендовать машину"
+        },
+        {
+          "pt": "O seguro está incluído?",
+          "ru": "Страховка включена?"
+        },
+        {
+          "pt": "Completa, por favor",
+          "ru": "Полный бак"
+        },
+        {
+          "pt": "Esse arranhão já estava aqui",
+          "ru": "Эта царапина уже была"
+        },
+        {
+          "pt": "O carro quebrou",
+          "ru": "Машина сломалась"
+        }
+      ]
+    },
+    {
+      "title": "Если что-то пошло не так",
+      "items": [
+        {
+          "pt": "Socorro!",
+          "ru": "Помогите!"
+        },
+        {
+          "pt": "Preciso de ajuda",
+          "ru": "Мне нужна помощь"
+        },
+        {
+          "pt": "Fui roubado",
+          "ru": "Меня обокрали"
+        },
+        {
+          "pt": "Perdi meu passaporte",
+          "ru": "Потерял паспорт"
+        },
+        {
+          "pt": "Estou passando mal",
+          "ru": "Мне плохо"
+        },
+        {
+          "pt": "Onde fica o hospital?",
+          "ru": "Где больница?"
+        }
+      ]
+    },
+    {
+      "title": "Быть своим",
+      "items": [
+        {
+          "pt": "Valeu!",
+          "ru": "Спасибо!"
+        },
+        {
+          "pt": "Beleza!",
+          "ru": "Отлично!"
+        },
+        {
+          "pt": "Tranquilo",
+          "ru": "Без проблем"
+        },
+        {
+          "pt": "Nossa!",
+          "ru": "Ого!"
+        },
+        {
+          "pt": "Que lindo!",
+          "ru": "Как красиво!"
+        },
+        {
+          "pt": "Saúde!",
+          "ru": "За здоровье!"
+        }
+      ]
+    }
+  ]
+}

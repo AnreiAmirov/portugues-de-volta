@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Português de volta — экспресс-курс бразильского португальского</title>
+<meta name="description" content="Экспресс-курс бразильского португальского за 6 недель: грамматика, лексика для поездки, диалоги, карточки и тесты с озвучкой.">
+<meta name="theme-color" content="#17558f">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Português">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;700&family=Unbounded:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css">
+<script type="module" src="assets/js/main.js"></script>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <h1>Português<br>de volta</h1>
+    <p class="sub">Экспресс-курс бразильского португальского: 6 недель, по 30–40 минут в день. Грамматика, которую нужно вспомнить в первую очередь, и лексика для магазинов, ресторанов, транспорта и пляжа. Нажми на любую португальскую фразу — её прочитает бразильский голос.</p>
+    <ul class="route"><li>São Paulo</li><li>Rio de Janeiro</li><li>Foz do Iguaçu</li></ul>
+    <div class="stats">
+      <div><b id="st-days">0/42</b><span>дней плана пройдено</span></div>
+      <div><b id="st-cards">0</b><span>карточек выучено</span></div>
+      <div><b id="st-best">—</b><span>лучший результат теста</span></div>
+    </div>
+    <div class="voicebar">
+      <label>Голос <select id="voice" aria-label="Голос озвучки"></select></label>
+      <label>Скорость <select id="rate" aria-label="Скорость речи"><option value="normal">обычная</option><option value="slow">медленная</option><option value="fast">быстрая</option></select></label>
+      <button class="btn small" id="voice-test">Проверить голос</button>
+      <button class="btn small" id="audio-offline" hidden>Скачать озвучку для офлайна</button>
+      <span class="status" id="voice-status" aria-live="polite"></span>
+    </div>
+    <details class="voicehelp"><summary>Голос звучит механически? Как это исправить</summary>
+      <p>Если в списке есть «Нейросетевой голос» — он записан заранее и звучит естественно на любом устройстве. Системные голоса зависят от устройства: разница между базовым и улучшенным огромная, поэтому стоит один раз установить хороший голос:</p>
+      <ul>
+        <li><b>iPhone, iPad:</b> Настройки → Универсальный доступ → Устный контент → Голоса → Португальский (Бразилия). Скачайте голос с пометкой «Улучшенный» или «Премиум».</li>
+        <li><b>Mac:</b> Системные настройки → Универсальный доступ → Устный контент → Системный голос → Управление голосами → Португальский (Бразилия), версия «Улучшенный» или «Премиум».</li>
+        <li><b>Android:</b> Настройки → Синтез речи → Синтезатор Google → Установка голосовых данных → Português (Brasil). Голоса Google нейросетевые и звучат естественно.</li>
+        <li><b>Windows:</b> откройте страницу в Microsoft Edge — там есть нейросетевые голоса «Francisca» и «Antonio» с пометкой Online (Natural).</li>
+        <li><b>Chrome на компьютере:</b> выберите голос «Google português do Brasil».</li>
+      </ul>
+      <p>После установки перезагрузите страницу: лучший из доступных голосов выбирается автоматически, его можно сменить в списке выше. В диалогах твои реплики и реплики собеседника звучат разными голосами. Нормальная скорость звучит естественнее медленной — медленный режим включайте только для разбора сложных фраз.</p>
+    </details>
+  </div>
+  <svg class="waves" viewBox="0 0 1200 56" preserveAspectRatio="none" aria-hidden="true">
+    <defs>
+      <pattern id="calcadao" width="120" height="56" patternUnits="userSpaceOnUse">
+        <path d="M0 28 C 20 6, 40 6, 60 28 S 100 50, 120 28 L120 56 L0 56 Z" fill="currentColor"/>
+      </pattern>
+    </defs>
+    <rect width="1200" height="56" fill="url(#calcadao)"/>
+  </svg>
+</header>
+
+<nav class="tabs" aria-label="Разделы курса">
+  <div class="wrap" role="tablist" id="tablist"></div>
+</nav>
+
+<main class="wrap">
+  <section id="plan" role="tabpanel">
+    <h2>План на 42 дня</h2>
+    <p class="lead">Каждая неделя — одна грамматическая тема плюс один жизненный сценарий. Седьмой день всегда уходит на повторение. Отмечай выполненные дни: прогресс сохраняется в этом браузере.</p>
+    <div class="routine">
+      <div><b>10 минут — карточки</b><span>Каждый день, по темам текущей недели и всем прошлым.</span></div>
+      <div><b>15 минут — новая тема</b><span>Грамматика или лексика из плана, с упражнениями.</span></div>
+      <div><b>10 минут — речь и слух</b><span>Диалоги вслух, подкаст или видео на бразильском португальском.</span></div>
+    </div>
+    <div id="plan-weeks"><p class="loading">Загружаю курс…</p></div>
+  </section>
+
+  <section id="grammar" role="tabpanel" hidden>
+    <h2>Грамматика</h2>
+    <p class="lead">Пятнадцать тем, без которых не обойтись в поездке. Времена разобраны подробно, с пошаговыми разборами фраз. Всё в бразильской разговорной норме: как говорят на улице, а не в учебнике для Лиссабона. После каждой темы — проверка.</p>
+    <div id="grammar-units"></div>
+  </section>
+
+  <section id="vocab" role="tabpanel" hidden>
+    <h2>Лексика по ситуациям</h2>
+    <p class="lead">Фразы собраны под реальные сценарии поездки. Кнопка справа — озвучка. Скорость голоса меняется в верхнем меню.</p>
+    <div class="chips" id="vocab-chips"></div>
+    <div id="vocab-note"></div>
+    <div id="vocab-list"></div>
+  </section>
+
+  <section id="dialogs" role="tabpanel" hidden>
+    <h2>Диалоги</h2>
+    <p class="lead">Сначала прослушай диалог целиком, потом включи режим роли: твои реплики скроются, произнеси их вслух и нажми, чтобы проверить себя.</p>
+    <div class="dlg-controls" id="dlg-controls">
+      <label><input type="checkbox" id="opt-role"> Режим роли — скрыть мои реплики</label>
+      <label><input type="checkbox" id="opt-noru"> Скрыть перевод</label>
+    </div>
+    <div id="dialog-list"></div>
+  </section>
+
+  <section id="cards" role="tabpanel" hidden>
+    <h2>Карточки</h2>
+    <p class="lead">Нажми на карточку, чтобы перевернуть. «Знаю» убирает слово из колоды, «Ещё раз» отправляет его в конец. Выученные слова запоминаются.</p>
+    <div class="row">
+      <select id="card-topic" aria-label="Тема карточек"></select>
+      <select id="card-dir" aria-label="Направление">
+        <option value="ru">Русский → португальский</option>
+        <option value="pt">Португальский → русский</option>
+      </select>
+      <button class="btn small" id="card-reset">Сбросить выученные в теме</button>
+    </div>
+    <div class="cardzone">
+      <div class="card" id="card" tabindex="0" role="button" aria-label="Перевернуть карточку">
+        <div><div class="front" id="card-front"></div><div class="back" id="card-back" hidden></div></div>
+        <div class="hint" id="card-hint">нажми, чтобы увидеть ответ</div>
+      </div>
+      <div class="card-actions">
+        <button class="btn" id="card-again">Ещё раз</button>
+        <button class="btn say-btn" id="card-say">Озвучить</button>
+        <button class="btn primary" id="card-know">Знаю</button>
+      </div>
+      <div class="meta" id="card-meta"></div>
+    </div>
+  </section>
+
+  <section id="quiz" role="tabpanel" hidden>
+    <h2>Тест</h2>
+    <p class="lead">Десять вопросов за раунд. На шестой неделе цель — стабильно 85% и выше во всех режимах.</p>
+    <div class="row">
+      <select id="quiz-mode" aria-label="Режим теста">
+        <option value="ru2pt">Лексика: русский → португальский</option>
+        <option value="pt2ru">Лексика: португальский → русский</option>
+        <option value="gram">Грамматика</option>
+      </select>
+      <select id="quiz-topic" aria-label="Тема теста"></select>
+      <button class="btn primary" id="quiz-start">Начать раунд</button>
+    </div>
+    <div class="box" id="quiz-box"><p style="margin:0;color:var(--muted)">Выбери режим и начни раунд.</p></div>
+  </section>
+
+  <section id="cheat" role="tabpanel" hidden>
+    <h2>Шпаргалка в дорогу</h2>
+    <p class="lead">Минимум, который стоит держать под рукой. Раздел можно распечатать: при печати остальное меню скрывается.</p>
+    <div class="emerg" id="emerg"></div>
+    <div class="cheat" id="cheat-grid"></div>
+  </section>
+</main>
+
+<footer class="wrap">Boa viagem! Страница работает офлайн после первого открытия — её можно добавить на экран «Домой».</footer>
+<noscript><p class="wrap fatal">Для работы курса нужен JavaScript.</p></noscript>
+</body>
+</html>
